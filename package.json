@@ -1,0 +1,23 @@
+{
+  "name": "css-format-new",
+  "version": "1.0.0",
+  "description": "css format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femvc/css-format-new.git"
+  },
+  "keywords": [
+    "css",
+    "format"
+  ],
+  "author": "haiyang5210",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/femvc/css-format-new/issues"
+  },
+  "homepage": "https://github.com/femvc/css-format-new#readme"
+}
